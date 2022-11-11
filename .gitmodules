@@ -1,0 +1,3 @@
+[submodule "ngtc-web-automation"]
+	path = ngtc-web-automation
+	url = https://github.com/UCCPH-CS/ngtc-web-automation.git
